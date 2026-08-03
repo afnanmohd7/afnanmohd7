@@ -95,15 +95,6 @@ Currently learning: Agentic AI systems, LLMs, backend architecture, cybersecurit
 - Most of my ideas begin with a thought and end up as a GitHub repo.  
 - Motto: "Build. Learn. Improve. Repeat."
 
----
-
-## 🙋 Contributing
-If you find something useful:
-- ⭐ Star the repo  
-- 🐞 Open an issue  
-- 🔧 Submit a PR with tests and a clear description — I love community contributions
 
 
 
-## 💭 Want this README tailored further?
-I can update tone, shorten sections, add badges, or embed demos/screenshots. See the list below for details I can add.
