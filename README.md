@@ -202,34 +202,28 @@ A collection of responsive applications and dashboards focused on clean interfac
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=afnanmohd7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=afnanmohd7&show_icons=true&hide_border=true&theme=transparent" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanmohd7&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanmohd7&layout=compact&hide_border=true&theme=transparent" height="180"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=afnanmohd7&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=afnanmohd7&hide_border=true&theme=transparent" />
 
 </div>
-
 ---
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/afnanmohd7/afnanmohd7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
-
 ---
 
 # 📈 Contribution Graph
