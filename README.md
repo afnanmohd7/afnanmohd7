@@ -100,7 +100,7 @@ Practical software products designed around real-world problems and workflows.
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,html,css" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html" />
 </p>
 
 ### 🎨 Frontend
@@ -112,7 +112,7 @@ Practical software products designed around real-world problems and workflows.
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,fastapi" />
 </p>
 
 ### 🗄️ Databases
