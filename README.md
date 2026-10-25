@@ -1,93 +1,136 @@
+<!--
+  AFNAN MOHAMMED — GITHUB PROFILE README
+  Repository: github.com/afnanmohd7/afnanmohd7
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm **Afnan Mohammed**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B2545,100:00D9FF&text=AFNAN%20MOHAMMED&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Developer&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Afnan Mohammed — Developer Profile"/>
 
-### `Full Stack Developer` · `Agentic AI Developer` · `Cybersecurity Enthusiast`
+<a href="https://afnanmohd.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/afnan-mohammed-963273410"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/afnanmohd7"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/afnanmohd_dev"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+products+%F0%9F%A4%96;Engineering+modern+web+applications+%F0%9F%92%BB;Exploring+LLMs%2C+MCP+%26+AI+Agents+%F0%9F%A7%A0;Learning+Cybersecurity+%26+Secure+Systems+%F0%9F%94%90;Build.+Learn.+Improve.+Repeat.+%E2%9A%A1" alt="Typing SVG" />
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products.;Engineering+modern+web+applications.;Exploring+LLMs%2C+MCP+%26+AI+agents.;Writing+Python.+Shipping+ideas.;Build.+Learn.+Iterate.+Repeat." alt="Animated developer introduction"/>
 
-<img src="https://komarev.com/ghpvc/?username=afnanmohd7&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-afnanmohd7-181717?style=for-the-badge\&logo=github)](https://github.com/afnanmohd7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-afnanmohd-00D9FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://afnanmohd.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afnan%20Mohammed-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/afnan-mohammed-963273410)
-[![Instagram](https://img.shields.io/badge/Instagram-@afnanmohd__dev-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/afnanmohd_dev)
+<img src="https://komarev.com/ghpvc/?username=afnanmohd7&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## `whoami`
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  > whoami                                                   │
-│                                                             │
-│  Afnan Mohammed                                             │
-│  Full Stack Developer                                      │
-│  Agentic AI Developer                                      │
-│  Computer Science Student                                  │
-│                                                             │
-│  > mission                                                  │
-│                                                             │
-│  Build practical software that solves real problems.       │
-│  Explore AI agents, LLM applications and secure systems.   │
-│                                                             │
-│  > currently_exploring                                     │
-│                                                             │
-│  AI Agents · LLMs · MCP · Automation · Cybersecurity       │
-│  Backend Architecture · SaaS · Modern Web Development      │
-└─────────────────────────────────────────────────────────────┘
+```python
+class AfnanMohammed:
+    def __init__(self):
+        self.role = "Python Full Stack Developer"
+        self.interests = [
+            "Agentic AI & LLMs",
+            "Full Stack Engineering",
+            "Automation & MCP",
+            "Cybersecurity",
+            "Building useful products"
+        ]
+        self.mindset = "Learn continuously. Build relentlessly."
+
+    def currently_doing(self):
+        return "Turning ideas into working software."
+
+me = AfnanMohammed()
 ```
 
-I'm a **Class 11 Computer Science student from Kerala, India**, passionate about building practical software, AI-powered applications and modern web products.
+I'm a developer passionate about building practical software, exploring intelligent systems, and turning ambitious ideas into real products.
 
-I enjoy experimenting with **Agentic AI, LLM applications, automation, full-stack development and cybersecurity**, while continuously learning through projects.
+I enjoy working across the stack — from designing interfaces and building APIs to experimenting with AI agents, automation, and secure systems.
 
-* 🤖 Building AI-powered applications and agents
-* 💻 Full-stack web application development
-* 🧠 Exploring LLMs, MCP and agentic architectures
-* 🔐 Learning cybersecurity and secure software development
-* 🚀 Turning ideas into working products
-* 📚 Learning by building and shipping
+- 🤖 Exploring **Agentic AI, LLMs, and MCP**
+- 🐍 Building with **Python and modern web technologies**
+- 🛡️ Interested in **cybersecurity and secure software engineering**
+- 🚀 Building products, experimenting with new ideas, and learning by shipping
+- 🏆 **Hac'KP 2026 winner** — part of the frontend team, among 50 winners
+
+> *I don't just want to use technology. I want to understand it, build with it, and make it useful.*
 
 ---
 
-## ⚡ What I Build
+## `./tech-stack`
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,java,html,css&theme=dark" alt="Programming languages"/>
+</p>
+
+### Frameworks & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,django,fastapi,tailwind,vite&theme=dark" alt="Frameworks and development tools"/>
+</p>
+
+### Databases, Infrastructure & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,git,github,docker,linux,bash,vercel,vscode&theme=dark" alt="Databases, infrastructure, and developer tools"/>
+</p>
+
+### AI & Intelligent Systems
+
+`LLMs` · `AI Agents` · `MCP` · `Workflow Automation` · `AI-powered Applications`
+
+---
+
+## `./featured-projects`
+
+A few projects and development experiences worth exploring.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Agentic AI
+### 🛡️ Hac'KP Frontend
 
-AI agents, intelligent assistants, automation systems and LLM-powered applications.
+Frontend engineering experience from Hac'KP 2026, working on a project in the Kerala Police CyberDome hackathon ecosystem.
+
+**Focus:** React-style frontend engineering, UI integration, and evidence analysis workflows.
+
+<a href="https://github.com/afnanmohd7/HacKp26-kp-kluade-frontend">Explore repository →</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Full Stack
+### 🎟️ Conduct Events
 
-Modern, responsive and scalable web applications with strong backend architecture.
+An event management project focused on making event planning and organization easier.
+
+**Focus:** Modern web development, interfaces, and end-to-end event workflows.
+
+<a href="https://github.com/afnanmohd7/conduct-events">Explore repository →</a>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Cybersecurity
+### 🧠 Mudarris AI
 
-Security-focused applications, monitoring systems and secure software engineering.
+An AI-powered learning app concept designed to help students understand topics and learn more effectively.
+
+**Focus:** AI-assisted learning and student-focused product design.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 SaaS Products
+### 🔐 SentinelFlow
 
-Practical software products designed around real-world problems and workflows.
+A defensive security dashboard concept for analyzing synthetic security logs and surfacing suspicious activity.
+
+**Focus:** FastAPI, Python, SQLite, risk scoring, and explainable security alerts.
 
 </td>
 </tr>
@@ -95,228 +138,50 @@ Practical software products designed around real-world problems and workflows.
 
 ---
 
-# 🛠️ Tech Stack
+## `./github-analytics`
 
-### 👨‍💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=afnanmohd7&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="165" alt="GitHub statistics"/>
 
-### 🎨 Frontend
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanmohd7&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="165" alt="Most used programming languages"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+<br/>
 
-### ⚙️ Backend
+<img src="https://streak-stats.demolab.com?user=afnanmohd7&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub contribution streak"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,fastapi" />
-</p>
+</div>
 
-### 🗄️ Databases
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### 🧰 Tools & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,vercel" />
-</p>
-
-### 🧠 AI / Development Interests
+## `./currently-exploring`
 
 ```text
-Agentic AI
-LLM Applications
-AI Automation
-MCP
-AI Assistants
-RAG Systems
-API Design
-Backend Architecture
-SaaS Development
-Cybersecurity
+[01]  Agentic AI       → Building more capable AI workflows
+[02]  Full Stack       → Designing and shipping complete products
+[03]  Automation       → Connecting tools, APIs, and intelligent agents
+[04]  Security         → Developing safer, more resilient systems
+[05]  Open Source      → Learning, contributing, and collaborating
 ```
 
 ---
 
-# 🚀 Featured Projects
+## `./connect`
 
-<table>
-<tr>
-<td width="50%">
+Have an interesting project, an idea worth building, or an opportunity to collaborate?
 
-## 🤖 AI Voice & Text Assistant
-
-An AI assistant designed for businesses that can handle voice conversations, WhatsApp interactions, multilingual responses and automated customer support.
-
-**Stack**
-
-`Python` `FastAPI` `AI Agents` `LLM APIs`
-
-</td>
-
-<td width="50%">
-
-## 📚 AI Learning Platform
-
-An AI-powered education platform that transforms learning material into notes, quizzes and interactive learning experiences.
-
-**Stack**
-
-`Next.js` `Python` `PostgreSQL` `AI`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 🛡️ SentinelFlow
-
-An AI security copilot designed to help schools and small organizations analyze logs, identify suspicious activity and understand security incidents.
-
-**Stack**
-
-`Python` `FastAPI` `React` `SQLite`
-
-</td>
-
-<td width="50%">
-
-## 🌐 Portfolio & Web Apps
-
-A collection of responsive applications and dashboards focused on clean interfaces, performance and scalable architecture.
-
-**Stack**
-
-`React` `Next.js` `Node.js` `MongoDB`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+Let's connect.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=afnanmohd7&show_icons=true&hide_border=true&theme=transparent" height="180"/>
+<a href="https://afnanmohd.vercel.app"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanmohd7&layout=compact&hide_border=true&theme=transparent" height="180"/>
+<a href="https://www.linkedin.com/in/afnan-mohammed-963273410"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=afnanmohd7&hide_border=true&theme=transparent" />
+**`while (curious) { learn(); build(); repeat(); }`**
 
-</div>
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/afnanmohd7/afnanmohd7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Afnan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=afnanmohd7\&bg_color=00000000\&color=00d9ff\&line=00d9ff\&point=ffffff\&area=true\&hide_border=true)](https://github.com/afnanmohd7)
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-                    CURRENTLY BUILDING
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-              ▼            ▼            ▼
-          AI Agents      SaaS       Secure Systems
-              │            │            │
-              └────────────┼────────────┘
-                           │
-                           ▼
-                     REAL PRODUCTS
-```
-
-### 🔬 Learning
-
-* Advanced Agentic AI architectures
-* LLM application development
-* Model Context Protocol (MCP)
-* AI automation
-* Backend architecture
-* Cybersecurity
-* Secure API design
-* Modern SaaS architecture
-
----
-
-# 🧩 Developer Philosophy
-
-> **Build things that solve problems.**
-
-> **Learn by building.**
-
-> **Ship → Learn → Improve → Repeat.**
-
-```text
-01001000 01101001  👋
-
-BUILD      ████████████████████ 100%
-LEARN      ███████████████████░  95%
-EXPERIMENT ██████████████████░░  90%
-SHIP       █████████████████░░░  85%
-
-> System status: ONLINE ⚡
-> Mode: BUILDING 🚀
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://afnanmohd.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/afnan-mohammed-963273410">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/afnanmohd_dev">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:afnanmohdaienquiries@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Build. Learn. Improve. Repeat."
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:001f3f,100:00d9ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D9FF,100:050816&section=footer" width="100%" alt="Footer"/>
 
 </div>
