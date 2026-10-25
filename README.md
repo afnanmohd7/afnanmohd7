@@ -1,187 +1,190 @@
-<!--
-  AFNAN MOHAMMED — GITHUB PROFILE README
-  Repository: github.com/afnanmohd7/afnanmohd7
--->
+# 👋 Hey, I'm Afnan Mohammed
 
-<div align="center">
+### Full Stack Developer · AI Builder · Graphic Designer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B2545,100:00D9FF&text=AFNAN%20MOHAMMED&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Developer&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Afnan Mohammed — Developer Profile"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Developing+AI-Powered+Products;Exploring+Agents%2C+LLMs+%26+Automation;Code+%2B+Creativity+%3D+Innovation" alt="Typing SVG" />
+</p>
 
-<a href="https://afnanmohd.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/afnan-mohammed-963273410"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/afnanmohd7"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/afnanmohd_dev"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products.;Engineering+modern+web+applications.;Exploring+LLMs%2C+MCP+%26+AI+agents.;Writing+Python.+Shipping+ideas.;Build.+Learn.+Iterate.+Repeat." alt="Animated developer introduction"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=afnanmohd7&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
+<p align="center">
+  <a href="https://afnanmohd.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/afnan-mohammed-963273410"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/afnanmohammedai"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://www.instagram.com/afnanmohd_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
-## `whoami`
+## 💫 About Me
 
-```python
-class AfnanMohammed:
-    def __init__(self):
-        self.role = "Python Full Stack Developer"
-        self.interests = [
-            "Agentic AI & LLMs",
-            "Full Stack Engineering",
-            "Automation & MCP",
-            "Cybersecurity",
-            "Building useful products"
-        ]
-        self.mindset = "Learn continuously. Build relentlessly."
+Hey, I'm **Afnan Mohammed**, a high school student, Full Stack Developer, AI Builder, and Graphic Designer passionate about technology and creativity.
 
-    def currently_doing(self):
-        return "Turning ideas into working software."
+I love building products that solve real-world problems through software, artificial intelligence, and thoughtful design. From developing full-stack web applications and SaaS products to experimenting with AI agents, LLMs, and intelligent automation, I'm always exploring new ways to turn ideas into meaningful solutions.
 
-me = AfnanMohammed()
-```
+My journey started with graphic design and gradually evolved into programming, cybersecurity, and AI development. Today, I combine my technical and creative skills to build products that are both functional and visually engaging.
 
-I'm a developer passionate about building practical software, exploring intelligent systems, and turning ambitious ideas into real products.
+- 💻 Building full-stack applications and SaaS products
+- 🤖 Exploring AI agents, LLMs, generative AI, and automation
+- 🛡️ Interested in cybersecurity and secure software development
+- 🎨 Passionate about graphic design, UI/UX, and visual storytelling
+- 🏆 Hac'KP 2026 hackathon winner, as part of the frontend team
+- 🚀 Always learning, experimenting, and turning ideas into reality
 
-I enjoy working across the stack — from designing interfaces and building APIs to experimenting with AI agents, automation, and secure systems.
+I believe the best way to learn technology is by building with it. I'm constantly improving my skills, exploring emerging technologies, and working toward creating products that make a difference.
 
-- 🤖 Exploring **Agentic AI, LLMs, and MCP**
-- 🐍 Building with **Python and modern web technologies**
-- 🛡️ Interested in **cybersecurity and secure software engineering**
-- 🚀 Building products, experimenting with new ideas, and learning by shipping
-- 🏆 **Hac'KP 2026 winner** — part of the frontend team, among 50 winners
+**Always curious. Always building. Always learning.**
 
-> *I don't just want to use technology. I want to understand it, build with it, and make it useful.*
+🌐 **Explore my portfolio:** [afnanmohd.vercel.app](https://afnanmohd.vercel.app)
 
 ---
 
-## `./tech-stack`
+## 🚀 Featured Projects
 
-### Languages
+### 🧠 Mudarris AI
+**An AI-powered learning companion for students.**
 
+Building a smarter learning experience for Indian school students with personalized study support, syllabus-focused learning, and progress tracking.
+
+- 🎯 Designed for CBSE and Kerala State students in Classes 6–12
+- 🤖 AI-powered learning assistance
+- 📚 Focused on making learning more accessible and engaging
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Supabase · Gemini API
+
+### 📄 Resume AI
+**Create professional, ATS-friendly resumes.**
+
+A resume-building tool designed to help users create polished resumes without unnecessary friction.
+
+- 📑 ATS-friendly resume generation
+- 🔒 Privacy-focused design
+- 📥 PDF export
+- ⚡ No sign-up required
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Generative AI
+
+🔗 **[Try Resume AI](https://resume-ai-peach-zeta.vercel.app/)**
+
+### 🎪 Conduct Events
+**A platform for managing events from start to finish.**
+
+An event management project focused on bringing organization, communication, and event insights into one place.
+
+- 📊 Real-time analytics
+- 📢 Event announcements
+- 💬 Communication and coordination
+
+🔗 **[Visit Conduct Events](https://conductevents.vercel.app/)** · [Instagram](https://www.instagram.com/conductevents/)
+
+### 🎨 Poster AI
+**AI-powered creative tools for creators and agencies.**
+
+Exploring how AI can simplify content creation, social media design, and creative workflows.
+
+**Tech:** React · Node.js · NestJS · OpenAI
+
+*Currently in development.*
+
+### 🛡️ PhishGuard AI
+**Exploring AI-powered phishing detection.**
+
+A security-focused project designed to help identify potentially malicious URLs, emails, messages, files, and QR codes.
+
+**Tech:** Python · React · FastAPI · PostgreSQL
+
+*Currently in development.*
+
+### 🏃 FitTrack
+**A fitness tracking Android application.**
+
+A project focused on tracking activity, workouts, calories, and personal progress.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Hac'KP 2026 Winner** — Part of the frontend team and among the 50 winners of a pan-India-level hackathon conducted by Kerala Police CyberDome.
+- 🤖 **Freedom With AI (FWAI)** — AI certification.
+
+📜 [View my AI certification](https://afnanmohd.vercel.app/Afnan-Mohammed-Certificate.pdf)
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,java,html,css&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,cpp,c" alt="Programming languages" />
 </p>
 
-### Frameworks & Development
-
+### Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,django,fastapi,tailwind,vite&theme=dark" alt="Frameworks and development tools"/>
-</p>
-
-### Databases, Infrastructure & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,git,github,docker,linux,bash,vercel,vscode&theme=dark" alt="Databases, infrastructure, and developer tools"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,django,nuxtjs,tailwind" alt="Web development technologies" />
 </p>
 
 ### AI & Intelligent Systems
 
-`LLMs` · `AI Agents` · `MCP` · `Workflow Automation` · `AI-powered Applications`
+`Generative AI` · `AI Agents` · `LLM Applications` · `RAG` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `Multi-Agent Systems` · `AI Automation` · `Function Calling`
+
+### Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,postgres,prisma,fastapi" alt="Databases and backend technologies" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,postman,figma,flutter,androidstudio" alt="Development tools" />
+</p>
+
+### Design & Creative Tools
+
+`Adobe Photoshop` · `Adobe Illustrator` · `Adobe Premiere Pro` · `Figma`
 
 ---
 
-## `./featured-projects`
+## 📊 GitHub Overview
 
-A few projects and development experiences worth exploring.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=afnanmohd7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanmohd7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=afnanmohd7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
-### 🛡️ Hac'KP Frontend
-
-Frontend engineering experience from Hac'KP 2026, working on a project in the Kerala Police CyberDome hackathon ecosystem.
-
-**Focus:** React-style frontend engineering, UI integration, and evidence analysis workflows.
-
-<a href="https://github.com/afnanmohd7/HacKp26-kp-kluade-frontend">Explore repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎟️ Conduct Events
-
-An event management project focused on making event planning and organization easier.
-
-**Focus:** Modern web development, interfaces, and end-to-end event workflows.
-
-<a href="https://github.com/afnanmohd7/conduct-events">Explore repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Mudarris AI
-
-An AI-powered learning app concept designed to help students understand topics and learn more effectively.
-
-**Focus:** AI-assisted learning and student-focused product design.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 SentinelFlow
-
-A defensive security dashboard concept for analyzing synthetic security logs and surfacing suspicious activity.
-
-**Focus:** FastAPI, Python, SQLite, risk scoring, and explainable security alerts.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afnanmohd7&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
 
 ---
 
-## `./github-analytics`
+## 🎨 Beyond Code
 
-<div align="center">
+Technology isn't my only interest. I also enjoy graphic design, visual storytelling, video editing, and creating digital experiences that look as good as they work.
 
-<img src="https://github-readme-stats.vercel.app/api?username=afnanmohd7&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="165" alt="GitHub statistics"/>
+I believe creativity and engineering complement each other — and I love bringing both together in the things I build.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanmohd7&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="165" alt="Most used programming languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=afnanmohd7&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub contribution streak"/>
-
-</div>
+🎨 **[Explore my designs on Behance](https://www.behance.net/afnanmohammedai)**
 
 ---
 
-## `./currently-exploring`
+## 🤝 Let's Connect
 
-```text
-[01]  Agentic AI       → Building more capable AI workflows
-[02]  Full Stack       → Designing and shipping complete products
-[03]  Automation       → Connecting tools, APIs, and intelligent agents
-[04]  Security         → Developing safer, more resilient systems
-[05]  Open Source      → Learning, contributing, and collaborating
-```
+I'm always interested in meeting developers, designers, AI enthusiasts, and people building something meaningful.
 
----
+<p align="center">
+  <a href="https://afnanmohd.vercel.app"><img src="https://img.shields.io/badge/Website-Visit%20Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+  <a href="mailto:afnanmohdaienquiries@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/afnanmohd7"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## `./connect`
+<p align="center">
+  <i>Building today. Learning every day. Creating for tomorrow. 🚀</i>
+</p>
 
-Have an interesting project, an idea worth building, or an opportunity to collaborate?
-
-Let's connect.
-
-<div align="center">
-
-<a href="https://afnanmohd.vercel.app"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-
-<a href="https://www.linkedin.com/in/afnan-mohammed-963273410"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<br/><br/>
-
-**`while (curious) { learn(); build(); repeat(); }`**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D9FF,100:050816&section=footer" width="100%" alt="Footer"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afnanmohd7&style=flat-square&color=00D9FF" alt="Profile views" />
+</p>
