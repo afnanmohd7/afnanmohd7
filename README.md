@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Afnan Mohammed
 
-### Full Stack Developer · AI Builder · Graphic Designer
+### Full Stack Developer · AI Developer · Graphic Designer · Cybersecurity Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Developing+AI-Powered+Products;Exploring+Agents%2C+LLMs+%26+Automation;Code+%2B+Creativity+%3D+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Development;AI+Agents%2C+LLMs+%26+Automation;Graphic+Design+%26+Visual+Storytelling;Exploring+Cybersecurity" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,22 +17,17 @@
 
 ## 💫 About Me
 
-Hey, I'm **Afnan Mohammed**, a high school student, Full Stack Developer, AI Builder, and Graphic Designer passionate about technology and creativity.
+I'm **Afnan Mohammed**, a high school student focused on **full stack development, AI development, graphic design, and cybersecurity**.
 
-I love building products that solve real-world problems through software, artificial intelligence, and thoughtful design. From developing full-stack web applications and SaaS products to experimenting with AI agents, LLMs, and intelligent automation, I'm always exploring new ways to turn ideas into meaningful solutions.
+I build web applications, explore AI-powered products, and create visuals for digital experiences. My journey started with graphic design, grew into Python and web development, and now includes AI agents, automation, and security-focused projects.
 
-My journey started with graphic design and gradually evolved into programming, cybersecurity, and AI development. Today, I combine my technical and creative skills to build products that are both functional and visually engaging.
+- 💻 **Full Stack Development** — Responsive interfaces, APIs, authentication, dashboards, and database-backed applications.
+- 🤖 **AI Development** — LLM applications, AI chatbots, agents, prompt engineering, and workflow automation.
+- 🎨 **Graphic Design** — Posters, social media creatives, brand visuals, UI design, and video editing.
+- 🛡️ **Cybersecurity** — Learning about phishing threats and secure software development through projects and workshops.
+- 🏆 **Hac'KP 2026 winner** — Contributed as part of the frontend team.
 
-- 💻 Building full-stack applications and SaaS products
-- 🤖 Exploring AI agents, LLMs, generative AI, and automation
-- 🛡️ Interested in cybersecurity and secure software development
-- 🎨 Passionate about graphic design, UI/UX, and visual storytelling
-- 🏆 Hac'KP 2026 hackathon winner, as part of the frontend team
-- 🚀 Always learning, experimenting, and turning ideas into reality
-
-I believe the best way to learn technology is by building with it. I'm constantly improving my skills, exploring emerging technologies, and working toward creating products that make a difference.
-
-**Always curious. Always building. Always learning.**
+I learn by building, experimenting, and improving the things I create.
 
 🌐 **Explore my portfolio:** [afnanmohd.vercel.app](https://afnanmohd.vercel.app)
 
@@ -50,6 +45,8 @@ Building a smarter learning experience for Indian school students with personali
 - 📚 Focused on making learning more accessible and engaging
 
 **Tech:** Next.js · TypeScript · Tailwind CSS · Supabase · Gemini API
+
+*Not yet publicly released.*
 
 ### 📄 Resume AI
 **Create professional, ATS-friendly resumes.**
@@ -110,37 +107,59 @@ A project focused on tracking activity, workouts, calories, and personal progres
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Tools
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,cpp,c" alt="Programming languages" />
-</p>
+### 💻 Full Stack Development
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,django,nuxtjs,tailwind" alt="Web development technologies" />
-</p>
-
-### AI & Intelligent Systems
-
-`Generative AI` · `AI Agents` · `LLM Applications` · `RAG` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `Multi-Agent Systems` · `AI Automation` · `Function Calling`
-
-### Databases & Backend
+**Languages:** Python · JavaScript · TypeScript · Java · HTML · CSS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,postgres,prisma,fastapi" alt="Databases and backend technologies" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" alt="Python, JavaScript, TypeScript, Java, HTML, and CSS" />
 </p>
 
-### Tools & Platforms
+**Web technologies:** React · Next.js · Node.js · NestJS · Django · Nuxt.js · Tailwind CSS · FastAPI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,postman,figma,flutter,androidstudio" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,django,nuxtjs,tailwind,fastapi" alt="Web frameworks and technologies" />
 </p>
 
-### Design & Creative Tools
+**Databases & backend tools:** Supabase · Firebase · MongoDB · PostgreSQL · Prisma
 
-`Adobe Photoshop` · `Adobe Illustrator` · `Adobe Premiere Pro` · `Figma`
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,postgres,prisma" alt="Database and backend tools" />
+</p>
+
+### 🤖 AI Development
+
+- **Applications:** Generative AI, LLM applications, AI chatbots, and content generation.
+- **Agents & automation:** AI agents, function and tool calling, multi-agent systems, and AI workflow design.
+- **Retrieval:** RAG, embeddings, and vector search.
+- **Models & tools:** OpenAI · Gemini API · Hugging Face · LangSmith · Pinecone · ChromaDB.
+- **Practices:** Prompt engineering and fine-tuning basics.
+
+### 🎨 Graphic Design & Creative Work
+
+**Skills:** Poster design · Social media creatives · Brand identity · Thumbnails · UI design · Video editing
+
+**Tools:** Adobe Photoshop · Adobe Illustrator · Adobe Premiere Pro · Figma
+
+### 🛡️ Cybersecurity
+
+Learning about phishing detection, malicious URL awareness, and secure software development through **PhishGuard AI**, cybersecurity workshops, and hackathon participation.
+
+**Project stack:** Python · React · FastAPI · PostgreSQL
+
+### 📱 Mobile Development
+
+Android development · Flutter — including **FitTrack**, a student Android project.
+
+### ⚙️ Development Tools
+
+Git · GitHub · Docker · VS Code · Vercel · Postman · Cursor · Replit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,postman,figma,flutter,androidstudio" alt="Development, design, and mobile tools" />
+</p>
 
 ---
 
