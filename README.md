@@ -3,7 +3,7 @@
 ### Full Stack Developer · AI Developer · Graphic Designer · Cybersecurity Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Development;AI+Agents%2C+LLMs+%26+Automation;Graphic+Design+%26+Visual+Storytelling;Exploring+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Development;AI+Agents%2C+LLMs+%26+Automation;Graphic+Design+%26+Visual+Storytelling;Exploring+Cybersecurity" alt="Typing SVG" />
 </p>
 
 <p align="center">
